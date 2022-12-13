@@ -1,5 +1,5 @@
 
-#include "/workspaces/CS225/release-f22/final/src/FlyNetwork.h"
+#include "FlyNetwork.h"
 #include <iostream>
 int main(int argc, char* argv[]) {
     if (argc == 2) {

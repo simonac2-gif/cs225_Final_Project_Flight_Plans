@@ -136,3 +136,9 @@ add_executable(test ${tests_src} ${CMAKE_CURRENT_SOURCE_DIR}/tests/tests.cpp)
 target_link_libraries(test PRIVATE Catch2::Catch2WithMain libs src)
 
 catch_discover_tests(test)
+
+# Add the assignment entrypoints using our libs and src code.
+foreach(entrypoint IN LISTS assignment_entrypoints)
+    add_executable(${entrypoint} ${entry_dir}/${entrypoint}.cpp)
+    target_link_libraries(${entrypoint} PRIVATE libs src)
+endforeach()

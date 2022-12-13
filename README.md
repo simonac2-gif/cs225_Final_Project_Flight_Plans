@@ -1,6 +1,5 @@
-*----------------------*
 * GitHub Organization  
-*----------------------*
+
 *Physical locations of all major files and deliverables*
 - Code: https://github.com/simonac2-gif/cs225_Final_Project_Flight_Plans/
 - Tests: https://github.com/simonac2-gif/cs225_Final_Project_Flight_Plans/tree/main/final/tests
@@ -8,10 +7,10 @@
 - Written Report:
 - Presentation Video:
 
+*----------------------*
 
-*----------------------*
 * Running Instructions 
-*----------------------*
+
 - Full instructions on how to build and run our executable.
 
 *Defining Input Data (every method)*

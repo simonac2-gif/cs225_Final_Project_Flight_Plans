@@ -5,7 +5,8 @@ GitHub Organization
 - Tests: https://github.com/simonac2-gif/cs225_Final_Project_Flight_Plans/tree/main/final/tests
 - Data: https://github.com/simonac2-gif/cs225_Final_Project_Flight_Plans/tree/main/final/data
 - Written Report: https://github.com/simonac2-gif/cs225_Final_Project_Flight_Plans/blob/main/final/report.md
-- Presentation Video: https://docs.google.com/presentation/d/1Z4U-OjgaRQslWKrTaaA5-xHe1-pNUpRHp1U8sxEizkw/edit#slide=id.g1b55e2e5987_0_191
+- Presentation Slides: https://docs.google.com/presentation/d/1Z4U-OjgaRQslWKrTaaA5-xHe1-pNUpRHp1U8sxEizkw/edit#slide=id.g1b55e2e5987_0_191
+- Demo Video: https://mediaspace.illinois.edu/media/t/1_2t3zi8hn
 
 *----------------------*
 
